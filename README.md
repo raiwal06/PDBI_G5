@@ -6,12 +6,12 @@
 
 ## Roles: 
 
-1. **Marco Moises Baltazar Cabezas** — Coordinador del Proyecto
+**1. Marco Moises Baltazar Cabezas** — Coordinador del Proyecto
    
-2. **Raí Walter Apesteguia Ramirez** — Diseño Biomédico
+**2. Raí Walter Apesteguia Ramirez** — Diseño Biomédico
    
-3. **Cristhian Leonardo Castillo Zapata** — Electrónica y Hardware
+**3. Cristhian Leonardo Castillo Zapata** — Electrónica y Hardware
    
-4. **Milena Isabel Barrera Garcia** — Prototipado y Validación
+**4. Milena Isabel Barrera Garcia** — Prototipado y Validación
   
-5. **Leonardo Romani Leon** — Coordinador de Software
+**5. Leonardo Romani Leon** — Coordinador de Software
