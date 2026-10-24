@@ -1,0 +1,7 @@
+vendor/
+config.h
+__pycache__/
+*.pyc
+*.wav
+*.bin
+.venv/
